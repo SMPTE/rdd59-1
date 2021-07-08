@@ -1,7 +1,7 @@
-# ST 2067-60
-Public CD of SMPTE ST 2067-60
+# RDD 59-1
+Public CD of SMPTE RDD 59-1
 
-[GitHub issues](https://github.com/SMPTE/st2067-60/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to 35pm-chair@smpte.org.
+[GitHub issues](https://github.com/SMPTE/rdd59-1/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to 35pm-chair@smpte.org.
 
 This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
 
