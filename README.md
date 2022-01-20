@@ -1,5 +1,5 @@
-# RDD 59-1
-Public CD of SMPTE RDD 59-1
+# RDD 59-1 - Interoperable Master Format - Application DPP (ProRes)
+[Public Committee Draft (PCD)](https://www.smpte.org/public-committee-drafts) of SMPTE RDD 59-1
 
 [GitHub issues](https://github.com/SMPTE/rdd59-1/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to 35pm-chair@smpte.org.
 
