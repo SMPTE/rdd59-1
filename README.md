@@ -1,4 +1,4 @@
-# SMPTE RDD 59-1
+# SMPTE RDD 59-1 - Interoperable Master Format - Application DPP (ProRes)
 
 _This repository is public._
 
