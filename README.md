@@ -1,8 +1,8 @@
-# SMPTE RDD 59-1
+# SMPTE RDD 59-1 - Interoperable Master Format - Application DPP (ProRes)
 
 _This repository is public._
 
-The document is available at <https://ieeexplore.ieee.org/document/9999622>.
+**SMPTE RDD 59-1 is now published and is available at https://doi.org/10.5594/SMPTE.RDD59-1.2022.**
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
 
